@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.5.0\4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83\okhttp-3.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
+        <dex dex="E:\GrailsApps\building-an-android-client-powered-by-a-grails-backend\complete-android-v1\app\build\intermediates\pre-dexed\debug\okhttp-3.5.0_51cfa7ab18f1033c32e387c57a3e14331693aff2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GrailsApps\building-an-android-client-powered-by-a-grails-backend\complete-android-v1\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\GrailsApps\building-an-android-client-powered-by-a-grails-backend\complete-android-v1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_4ab7380bd1bce10e1bdd4e8d00e9b0357f7812f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="E:\GrailsApps\building-an-android-client-powered-by-a-grails-backend\complete-android-v1\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_f01d5066ada3a68757a8c19db74dc222c9a72d4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GrailsApps\building-an-android-client-powered-by-a-grails-backend\complete-android-v1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="E:\GrailsApps\building-an-android-client-powered-by-a-grails-backend\complete-android-v1\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_3a122fda5bc184abd1570a4eba9f79a53d44ccdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GrailsApps\building-an-android-client-powered-by-a-grails-backend\complete-android-v1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="E:\GrailsApps\building-an-android-client-powered-by-a-grails-backend\complete-android-v1\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_cd53c229607b58ee3f4dc8056f2e9e73d9bd6906.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GrailsApps\building-an-android-client-powered-by-a-grails-backend\complete-android-v1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="E:\GrailsApps\building-an-android-client-powered-by-a-grails-backend\complete-android-v1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_da29818879ab366fa9882addc7a8177f6b1bc76d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="E:\GrailsApps\building-an-android-client-powered-by-a-grails-backend\complete-android-v1\app\build\intermediates\pre-dexed\debug\okio-1.11.0_a18b5dc45f4a0151484f75c8b932de08b63e5787.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GrailsApps\building-an-android-client-powered-by-a-grails-backend\complete-android-v1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="E:\GrailsApps\building-an-android-client-powered-by-a-grails-backend\complete-android-v1\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_91fdefcddca1c786c83daf4c924a180fddb9f064.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GrailsApps\building-an-android-client-powered-by-a-grails-backend\complete-android-v1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="E:\GrailsApps\building-an-android-client-powered-by-a-grails-backend\complete-android-v1\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_ac25a92ad38d9f60939b363b071fd7de6bfa827e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="E:\GrailsApps\building-an-android-client-powered-by-a-grails-backend\complete-android-v1\app\build\intermediates\pre-dexed\debug\gson-2.8.0_dc057325a5d9b9680d21b464c456438ae2abd526.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GrailsApps\building-an-android-client-powered-by-a-grails-backend\complete-android-v1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="E:\GrailsApps\building-an-android-client-powered-by-a-grails-backend\complete-android-v1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_f57f2960a641ed9d3eb1ae7b4c37b6a4907c45df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GrailsApps\building-an-android-client-powered-by-a-grails-backend\complete-android-v1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="E:\GrailsApps\building-an-android-client-powered-by-a-grails-backend\complete-android-v1\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_d6524a3c9202f544d36e5afa54b0181fd3998bad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\GrailsApps\building-an-android-client-powered-by-a-grails-backend\complete-android-v1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="E:\GrailsApps\building-an-android-client-powered-by-a-grails-backend\complete-android-v1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_82e17e34f228722ff627d00ef662c9b5df39b6af.jar" />
+    </item>
+
+</items>
